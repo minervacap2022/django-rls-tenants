@@ -96,3 +96,8 @@ Are you using `django-rls-tenants` in production? We'd love to hear about it.
 ## License
 
 [MIT](LICENSE)
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
